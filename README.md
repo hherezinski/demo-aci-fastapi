@@ -25,6 +25,7 @@ GET /redis/{key}
 
 ### Insert do bazy
 POST /db/item
+
 Body: { "value": "hello" }
 
 ### Odczyt z bazy
